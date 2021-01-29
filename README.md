@@ -6,4 +6,4 @@ Edward Lee, Jimmy Zheng, Errol Colak, Maryam Mohammadzadeh, Golnaz Houshmand, Ni
 ![alt text](https://github.com/edhlee/Deep-COVID-DeteCT/blob/main/tsne.png?raw=true)
 
 
-For inquiries, please email Edward Lee at edhlee@stanford.edu or Kristen Yeom at kyeom@stanford.edu
+For inquiries, please email Edward Lee at edhlee@stanford.edu or Kristen Yeom at kyeom@stanford.edu. We have received approval and license from Treasury to work with hospitals in Iran. 
