@@ -6,7 +6,7 @@ Edward Lee, Jimmy Zheng, Errol Colak, Maryam Mohammadzadeh, Golnaz Houshmand, Ni
 
 ![alt text](https://github.com/edhlee/Deep-COVID-DeteCT/blob/main/tsne.png?raw=true)
 
-For sample data, please see https://drive.google.com/drive/folders/1RgluSwYr9_1SEgB8BLU-R-hNCHGTaewQ?usp=sharing. By downloading and/or using, you agree to use it for non-commercial, research purposes only. 
+For sample data, please see https://drive.google.com/drive/folders/1RgluSwYr9_1SEgB8BLU-R-hNCHGTaewQ?usp=sharing. By downloading and/or using, you agree to use it for non-commercial, research purposes only. Please see the manuscript for details on data release. 
 
 For inquiries, please email Edward Lee at edhlee@stanford.edu or Kristen Yeom at kyeom@stanford.edu. 
 
