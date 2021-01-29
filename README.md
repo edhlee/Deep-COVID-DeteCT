@@ -6,9 +6,4 @@ Edward Lee, Jimmy Zheng, Errol Colak, Maryam Mohammadzadeh, Golnaz Houshmand, Ni
 ![alt text](https://github.com/edhlee/Deep-COVID-DeteCT/blob/main/tsne.png?raw=true)
 
 
-
-
-More updates to come!
-
-
-
+For inquiries, please email Edward Lee at edhlee@stanford.edu or Kristen Yeom at kyeom@stanford.edu
